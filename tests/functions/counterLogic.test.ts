@@ -1,4 +1,3 @@
-// __tests__/functions/counterLogic.test.ts
 import { increment, decrement } from '../../functions/counterLogic';
 
 describe('counterLogic', () => {

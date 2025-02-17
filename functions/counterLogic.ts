@@ -1,4 +1,3 @@
-// functions/counterLogic.ts
 export const increment = (count: number): number => {
     return count + 1;
 };

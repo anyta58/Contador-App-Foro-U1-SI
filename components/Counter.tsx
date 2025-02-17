@@ -1,4 +1,3 @@
-// components/Counter.tsx
 import React, { useState } from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
 import { increment, decrement } from '../functions/counterLogic';
